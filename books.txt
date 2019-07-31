@@ -1,0 +1,384 @@
+Book: Bir Ömür Nasıl Yaşanır? & Hayatta Doğru Seçimler İçin Öneriler
+Author: Prof. Dr. İlber Ortaylı
+Publisher: KRONİK KİTAP
+----------------------------------------------------------
+Book: Beren ile Luthien
+Author:  J. R. R. Tolkien
+Publisher: İTHAKİ YAYINLARI
+----------------------------------------------------------
+Book: Bir İdam Mahkumunun Son Günü (Karton Kapak)
+Author:  Victor Hugo
+Publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+----------------------------------------------------------
+Book: Abartma Tozu
+Author:  Şermin Yaşar
+Publisher: TAZE KİTAP
+----------------------------------------------------------
+Book: Fahrenheit 451
+Author:  Ray Bradbury
+Publisher: İTHAKİ YAYINLARI
+----------------------------------------------------------
+Book: Pia Mater
+Author:  Serkan Karaismailoğlu
+Publisher: ELMA YAYINEVİ
+----------------------------------------------------------
+Book: Hayvan Çiftliği (Ciltsiz)
+Author:  George Orwell
+Publisher: CAN YAYINLARI
+----------------------------------------------------------
+Book: Şeker Portakalı (Ciltsiz)
+Author:  Jose Mauro De Vasconcelos
+Publisher: CAN YAYINLARI
+----------------------------------------------------------
+Book: İnsan Nedir?
+Author:  Mark Twain
+Publisher: DEDALUS KİTAP
+----------------------------------------------------------
+Book: Momo
+Author:  Michael Ende
+Publisher: PEGASUS YAYINLARI
+----------------------------------------------------------
+Book: Tüfek, Mikrop ve Çelik 
+Author:  Jared Diamond
+Publisher: PEGASUS YAYINLARI
+----------------------------------------------------------
+Book: Bilinmeyen Bir Kadının Mektubu (Karton Kapak)
+Author:  Stefan Zweig
+Publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+----------------------------------------------------------
+Book: Suç ve Ceza (Ciltsiz)
+Author:  Fyodor Mihayloviç Dostoyevski
+Publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+----------------------------------------------------------
+Book: Olağanüstü Bir Gece
+Author:  Stefan Zweig
+Publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+----------------------------------------------------------
+Book: Fareler ve İnsanlar
+Author:  John Steinbeck
+Publisher: SEL YAYINCILIK
+----------------------------------------------------------
+Book: Simyacı (Ciltsiz)
+Author:  Paulo Coelho
+Publisher: CAN YAYINLARI
+----------------------------------------------------------
+Book: 1984
+Author:  George Orwell
+Publisher: CAN YAYINLARI
+----------------------------------------------------------
+Book: Kendine Hoş Geldin
+Author:  Miraç Çağrı Aktaş
+Publisher: OLİMPOS YAYINLARI
+----------------------------------------------------------
+Book: Cesur Yeni Dünya
+Author:  Aldous Huxley
+Publisher: İTHAKİ YAYINLARI
+----------------------------------------------------------
+Book: Körlük
+Author:  Jose Saramago
+Publisher: KIRMIZI KEDİ YAYINEVİ
+----------------------------------------------------------
+Book: Bir İdam Mahkumunun Son Günü
+Author:  Victor Hugo
+Publisher: KARBON KİTAPLAR
+----------------------------------------------------------
+Book: İçimizdeki Şeytan
+Author:  Sabahattin Ali
+Publisher: YAPI KREDİ YAYINLARI
+----------------------------------------------------------
+Book: Satranç (Karton Kapak)
+Author:  Stefan Zweig
+Publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+----------------------------------------------------------
+Book: Beyaz Zambaklar Ülkesinde  (Atatürk'ün askerlere tavsiye ettiği kitap)
+Author:  Grigory Petrov
+Publisher: KARBON KİTAPLAR
+----------------------------------------------------------
+Book: Küçük Prens
+Author:  Antoine De Saint Exupery
+Publisher: KARBON KİTAPLAR
+----------------------------------------------------------
+Book: Sen Benim Hayatımsın
+Author:  Ferzan Özpetek
+Publisher: CAN YAYINLARI KAMPANYA
+----------------------------------------------------------
+Book: Bülbülü Öldürmek
+Author:  Harper Lee
+Publisher: SEL YAYINCILIK
+----------------------------------------------------------
+Book: Sabahattin Ali Seti (3 Kitap)
+Author:  Sabahattin Ali
+Publisher: KARBON KİTAPLAR
+----------------------------------------------------------
+Book: Kürk Mantolu Madonna
+Author:  Sabahattin Ali
+Publisher: YAPI KREDİ YAYINLARI
+----------------------------------------------------------
+Book: Camdaki Kız
+Author: Dr. Gülseren Budayıcıoğlu
+Publisher: DOĞAN KİTAP
+----------------------------------------------------------
+Book: Bir İdam Mahkumunun Son Günü (Cep Boy)
+Author:  Victor Hugo
+Publisher: KARBON KİTAPLAR
+----------------------------------------------------------
+Book: İngilizce Bulmacalarla Kahve Molası -1
+Author:  Alev Yıldırım
+Publisher: KARBON KİTAPLAR
+----------------------------------------------------------
+Book: İnsan Neyle Yaşar (Karton Kapak)
+Author:  Lev N. Tolstoy
+Publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+----------------------------------------------------------
+Book: Hayvanlardan Tanrılara Sapiens &  İnsan Türünün Kısa Bir Tarihi
+Author:  Yuval Noah Harari
+Publisher: KOLEKTİF KİTAP
+----------------------------------------------------------
+Book: Sakın Oraya Gitme
+Author:  Yekta Kopan
+Publisher: CAN YAYINLARI KAMPANYA
+----------------------------------------------------------
+Book: Sineklerin Tanrısı (karton kapak)
+Author:  William Golding
+Publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+----------------------------------------------------------
+Book: Gerçek Tıp & Yitik Şifanın İzinde
+Author:  Aidin Salih
+Publisher: YİTİK ŞİFA
+----------------------------------------------------------
+Book: Ay Işığı Sokağı
+Author:  Stefan Zweig
+Publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+----------------------------------------------------------
+Book: Yabancı
+Author:  Albert Camus
+Publisher: CAN YAYINLARI
+----------------------------------------------------------
+Book: Kökler, Yollar ve Yitik Benler
+Author:  Susanna Tamaro
+Publisher: CAN YAYINLARI KAMPANYA
+----------------------------------------------------------
+Book: Kuyucaklı Yusuf
+Author:  Sabahattin Ali
+Publisher: YAPI KREDİ YAYINLARI
+----------------------------------------------------------
+Book: Küçük Kara Balık
+Author:  Samed Behrengi
+Publisher: KARBON KİTAPLAR
+----------------------------------------------------------
+Book: Kırmızı Pazartesi
+Author:  Gabriel Garcia Marquez
+Publisher: CAN YAYINLARI
+----------------------------------------------------------
+Book: Bir Çöküşün Öyküsü
+Author:  Stefan Zweig
+Publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+----------------------------------------------------------
+Book: Korku
+Author:  Stefan Zweig
+Publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+----------------------------------------------------------
+Book: Altıncı Koğuş
+Author:  Anton Çehov
+Publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+----------------------------------------------------------
+Book: Otomatik Portakal (ciltsiz)
+Author:  Anthony Burgess
+Publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+----------------------------------------------------------
+Book: Yeraltından Notlar (Karton Kapak)
+Author:  Fyodor Mihayloviç Dostoyevski
+Publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+----------------------------------------------------------
+Book: Pucca Günlük 7 / Peki Ya Şimdi ?
+Author:  Pucca 
+Publisher: İNDİGO KİTAP
+----------------------------------------------------------
+Book: İki Şiirin Arasında
+Author:  Yekta Kopan
+Publisher: CAN YAYINLARI KAMPANYA
+----------------------------------------------------------
+Book: Yetişin Çocuklar & Bebeklikten Ergenliğe Çocuk Yetiştirme Kılavuzu
+Author: Prof. Dr.  Selçuk R. Şirin
+Publisher: DOĞAN KİTAP
+----------------------------------------------------------
+Book: Kral Şakir 6 / Dürümler Karışık
+Author:  Varol Yaşaroğlu
+Publisher: EKSİK PARÇA ÇOCUK
+----------------------------------------------------------
+Book: Huzursuzluk
+Author:  Haluk Can Dizdaroğlu
+Publisher: DOĞAN KİTAP
+----------------------------------------------------------
+Book: Dönüşüm (Karton Kapak)
+Author:  Mert Dikmen
+Publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+----------------------------------------------------------
+Book: Amok Koşucusu
+Author:  Zülfü Livaneli
+Publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+----------------------------------------------------------
+Book: Kalp 
+Author:  Franz Kafka
+Publisher: TURKUVAZ KİTAP
+----------------------------------------------------------
+Book: Metastaz
+Author:  Stefan Zweig
+Publisher: KIRMIZI KEDİ YAYINEVİ
+----------------------------------------------------------
+Book: Tuhaf Dergi Sayı:28 Temmuz 2019	
+Author: Prof. Dr. İskender Pala
+Publisher: TUHAF DERGİ
+----------------------------------------------------------
+Book: İnsan Neyle Yaşar? (Cep Boy)
+Author:  Barış Pehlivan
+Publisher: KARBON KİTAPLAR
+----------------------------------------------------------
+Book: Sırça Köşk
+Author:  Barış Terkoğlu
+Publisher: YAPI KREDİ YAYINLARI
+----------------------------------------------------------
+Book: Çöküş (Ciltli) & Toplumlar Başarısızlığı ya da Başarıyı Nasıl Seçerler?
+Author:  Lev N. Tolstoy
+Publisher: PEGASUS YAYINLARI
+----------------------------------------------------------
+Book: Nasip Niyete Vurgundur
+Author:  Sabahattin Ali
+Publisher: OLİMPOS YAYINLARI
+----------------------------------------------------------
+Book: On Dakika Otuz Sekiz Saniye
+Author:  Jared Diamond
+Publisher: DOĞAN KİTAP
+----------------------------------------------------------
+Book: İnce Memed 1
+Author:  Ethem Emin Nemutlu
+Publisher: YAPI KREDİ YAYINLARI
+----------------------------------------------------------
+Book: Saatleri Ayarlama Enstitüsü
+Author:  Elif Şafak
+Publisher: DERGAH YAYINLARI
+----------------------------------------------------------
+Book: İtiraflarım
+Author:  Yaşar Kemal
+Publisher: KARBON KİTAPLAR
+----------------------------------------------------------
+Book: Serenad (Karton Kapak)
+Author:  Ahmet Hamdi Tanpınar
+Publisher: DOĞAN KİTAP
+----------------------------------------------------------
+Book: Çavdar Tarlasında Çocuklar
+Author:  Lev N. Tolstoy
+Publisher: YAPI KREDİ YAYINLARI
+----------------------------------------------------------
+Book: İyi Hissetmek
+Author:  Zülfü Livaneli
+Publisher: PSİKONET YAYINLARI
+----------------------------------------------------------
+Book: İnsan Neyle Yaşar?
+Author:  J. D. Salinger
+Publisher: KARBON KİTAPLAR
+----------------------------------------------------------
+Book: İngiltere - İskoçya - Gallerİskoçya Galler
+Author: Dr. David Burns
+Publisher: NATIONAL GEOGRAPHIC TRAVELER
+----------------------------------------------------------
+Book: Olağanüstü Bir Gece
+Author:  Lev N. Tolstoy
+Publisher: KARBON KİTAPLAR
+----------------------------------------------------------
+Book: İçimizdeki Şeytan (Cep Boy)
+Author:  Christopher Somerville
+Publisher: KARBON KİTAPLAR
+----------------------------------------------------------
+Book: Bilimden Sanata Yüzyılın Ünlüleri / Hazır Bilgi Serisi
+Author:  Stefan Zweig
+Publisher: NTV YAYINLARI
+----------------------------------------------------------
+Book: Can Veren Pervaneler
+Author:  Sabahattin Ali
+Publisher: BABIALİ KÜLTÜR YAYINCILIĞI
+----------------------------------------------------------
+Book: Sapma & Medeniyetin Seyrini Değiştiren Keşfin Öyküsü
+Author:  Christophe Quillien
+Publisher: CAN YAYINLARI KAMPANYA
+----------------------------------------------------------
+Book: The Little Prince
+Author:  Hayati İnanç
+Publisher: KARBON KİTAPLAR
+----------------------------------------------------------
+Book: Pal Sokağı Çocukları
+Author:  Stephen Greenblatt
+Publisher: YAPI KREDİ YAYINLARI
+----------------------------------------------------------
+Book: Her Şey Değişir & Ritüeller Kitabı
+Author:  Antoine De Saint Exupery
+Publisher: DESTEK YAYINLARI
+----------------------------------------------------------
+Book: Gazap Üzümleri
+Author:  Ferenc Molnar
+Publisher: SEL YAYINCILIK
+----------------------------------------------------------
+Book: Alev Püskürtenler
+Author:  Anette Inselberg
+Publisher: CAN YAYINLARI KAMPANYA
+----------------------------------------------------------
+Book: Küçük Prens (Cep Boy)
+Author:  John Steinbeck
+Publisher: KARBON KİTAPLAR
+----------------------------------------------------------
+Book: Dervişin Teselli Koleksiyonu & Doğu'dan Batı'dan 99 Teselli 
+Author:  Rachel Kushner
+Publisher: HAYY KİTAP
+----------------------------------------------------------
+Book: Kürk Mantolu Madonna
+Author:  Antoine De Saint Exupery
+Publisher: KARBON KİTAPLAR
+----------------------------------------------------------
+Book: Gurur ve Önyargı (Ciltsiz)
+Author:  Mecit Ömür Öztürk
+Publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+----------------------------------------------------------
+Book: Sefarad Yahudilerinden Masallar
+Author:  Sabahattin Ali
+Publisher: CAN YAYINLARI KAMPANYA
+----------------------------------------------------------
+Book: Yaşamak
+Author:  Jane Austen
+Publisher: JAGUAR KİTAP
+----------------------------------------------------------
+Book: Doğuştan Yalancı & Neden Yalan Söylemeden Yaşayamıyoruz?
+Author:  Vanessa Pfister-Mesavage
+Publisher: NTV YAYINLARI
+----------------------------------------------------------
+Book: Harry Potter ve Felsefe Taşı
+Author:  Yu Hua 
+Publisher: YAPI KREDİ YAYINLARI
+----------------------------------------------------------
+Book: Mecburiyet
+Author:  Ian Leslie
+Publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+----------------------------------------------------------
+Book: Çizgili Pijamalı Çocuk
+Author:  J. K. Rowling
+Publisher: TUDEM YAYINEVİ
+----------------------------------------------------------
+Book: Slavoj Zizek / Çağımızın Son Filozofunu Anlamak İçin Çizgibilim
+Author:  Stefan Zweig
+Publisher: NTV YAYINLARI
+----------------------------------------------------------
+Book: Güneşi Uyandıralım
+Author:  John Boyne
+Publisher: CAN YAYINLARI
+----------------------------------------------------------
+Book: Çetin Ceviz ve Mucide
+Author:  Christopher Kul-Want
+Publisher: FOM KİTAP
+----------------------------------------------------------
+Book: Bütün-Beyinli Çocuk
+Author:  Jose Mauro De Vasconcelos
+Publisher: KORİDOR YAYINCILIK
+----------------------------------------------------------
+Book: Madalyonun İçi
+Author:  Sinan Yaşar
+Publisher: REMZİ KİTABEVİ
+----------------------------------------------------------
